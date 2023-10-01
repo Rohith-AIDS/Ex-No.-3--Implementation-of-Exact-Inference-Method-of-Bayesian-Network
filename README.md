@@ -42,9 +42,9 @@ Step 7:
 
 ## Program :
 ```
-Name:Kadin Samson L
+Name:SV ROHITHKUMAR
 
-Reg.No:212221230044
+Reg.No:212221230084
 ```
 ```py
 from pgmpy.models import BayesianNetwork
